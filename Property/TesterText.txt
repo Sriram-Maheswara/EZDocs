@@ -1,1 +1,2 @@
 Hello buddy
+Welcome to VS code with GIT
